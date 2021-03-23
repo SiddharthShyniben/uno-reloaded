@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Issues
+    url: https://github.com/SiddharthShyniben/uno-reloaded/issues
+    about: Please add Feature Requests/Bug Reports here
+  - name: Discussions
+    url: https://github.com/SiddharthShyniben/uno-reloaded/discussions
+    about: Please use discussions to talk with the community and to get help
