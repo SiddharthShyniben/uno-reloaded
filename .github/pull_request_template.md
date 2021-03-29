@@ -7,7 +7,7 @@
 Please check all applicable
 
 - [ ] Bug fix (non-breaking change which fixes an issue): Please specify what error or issue the bug fixes
-- [ ] New feature (non-breaking change which adds functionality): Please describe the feature or link to the diiscussion in which this has been discussed
+- [ ] New feature (non-breaking change which adds functionality): Please describe the feature or link to the discussion in which this has been discussed
   - [ ] I have created a discussion and discussed the feature
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected): Please describe why and how this major change makes the code better or link to the discussion in which this was discussed
   - [ ] I have created a discussion and discussed the change
@@ -25,4 +25,4 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
 - [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changess
+- [ ] New and existing unit tests pass locally with my changes
