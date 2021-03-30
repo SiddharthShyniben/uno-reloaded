@@ -1,0 +1,33 @@
+{
+  "name": "uno-reloaded",
+  "version": "0.0.1",
+  "description": "The UNO Engine, reloaded",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthShyniben/uno-reloaded.git"
+  },
+  "keywords": [
+    "uno",
+    "engine"
+  ],
+  "author": "SiddharthShyniben <siddharth.muscat@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SiddharthShyniben/uno-reloaded/issues"
+  },
+  "homepage": "https://github.com/SiddharthShyniben/uno-reloaded#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "tslint": "^6.1.3",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.1.3"
+  },
+  "files": ["lib/**/*"]
+}
